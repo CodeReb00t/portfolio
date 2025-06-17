@@ -34,8 +34,7 @@ export const projects: Project[] = [
     date: "2025",
     github: "https://github.com/CodeReb00t/Shedly",
     demo: "https://main.dbadtie57oyg2.amplifyapp.com/",
-    image:
-      "https://images.pexels.com/photos/3184339/pexels-photo-3184339.jpeg?auto=compress&cs=tinysrgb&w=800",
+    image: "/project1.png",
     featured: true,
   },
   {
@@ -50,8 +49,7 @@ export const projects: Project[] = [
     date: "2025",
     github: "https://github.com/CodeReb00t/dbackend",
     demo: "https://dbackend-docs.vercel.app/",
-    image:
-      "https://images.pexels.com/photos/270348/pexels-photo-270348.jpeg?auto=compress&cs=tinysrgb&w=800",
+    image: "/project2.png",
     featured: true,
   },
   {
